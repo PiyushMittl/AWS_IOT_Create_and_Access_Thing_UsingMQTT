@@ -137,6 +137,6 @@ After connecting the light given at right most corner will become green
 ![Throughput Graph](https://github.com/PiyushMittl/AWS_IOT_Create_and_Access_Thing_UsingMQTT/blob/master/im21.png)
 
 
-[![BULB SWITCHED ON AND OFF USING IOT](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/H8Z43j6Kd5o "BULB SWITCHED ON AND OFF USING IOT")
+[![BULB SWITCHED ON AND OFF USING IOT](https://github.com/PiyushMittl/AWS_IOT_Create_and_Access_Thing_UsingMQTT/blob/master/YouTube.png)](https://youtu.be/H8Z43j6Kd5o "BULB SWITCHED ON AND OFF USING IOT")
 
 https://youtu.be/H8Z43j6Kd5o
